@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-tailwind",
-  "description": "Gatsby starter styled with Tailwind",
+  "name": "Digitax",
+  "description": "Digitax",
   "version": "4.0.0",
-  "author": "Taylor Bryant <taylor@bryant.io>",
+  "author": "fauzanlbs",
   "dependencies": {
     "gatsby": "2.19.12",
     "gatsby-plugin-manifest": "2.2.41",
