@@ -11,7 +11,7 @@ function ContactPage() {
         keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
         title="Contact"
       />
-     <Contact/>
+      <Contact />
     </Layout>
   );
 }
